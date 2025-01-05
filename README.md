@@ -50,5 +50,7 @@ Cloud Infrastructure:
 
 ## **Database Schema**
 - Below is the SQL diagram of the database structure, showing the relationships and connections between tables:
+  
+![Screenshot 2025-01-05 161607](https://github.com/user-attachments/assets/f928cd5b-5456-4f26-bfdd-57f6761278d8)
 
 - This diagram visualizes the relationships between various database tables, enabling better understanding of the data flow within the system.
