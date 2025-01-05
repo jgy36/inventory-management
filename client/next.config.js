@@ -9,7 +9,9 @@ const nextConfig = {
         pathname: "/**",
       },
     ],
+    unoptimized: true, // Disable image optimization
   },
+  output: "export", // Keep the export setting
 };
 
-export default nextConfig;
+module.exports = nextConfig; // Use CommonJS module.exports syntax

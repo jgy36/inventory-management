@@ -47,3 +47,8 @@ Cloud Infrastructure:
   - AWS API Gateway (API Management)
   - AWS Amplify (Frontend Deployment)
 ```
+
+## **Database Schema**
+- Below is the SQL diagram of the database structure, showing the relationships and connections between tables:
+
+- This diagram visualizes the relationships between various database tables, enabling better understanding of the data flow within the system.
